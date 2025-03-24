@@ -1,5 +1,17 @@
+
+.outfit-font {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400, 700;
+    font-style: normal;
+  }
+
+
+
 html, body {
     background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
 }
 
 main {
@@ -8,6 +20,7 @@ main {
 
 .title {
     color: hsl(218, 44%, 22%);
+    font-weight: 700;
 }
 
 .instructions {
