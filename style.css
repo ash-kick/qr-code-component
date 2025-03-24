@@ -16,6 +16,8 @@ html, body {
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 main {
@@ -23,7 +25,7 @@ main {
     padding: 15px;
     border-radius: 20px;
     width: 25rem;
-    height: 45rem;
+    height: 40rem;
 }
 
 .text-box {
